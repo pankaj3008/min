@@ -1,8 +1,12 @@
 * {
+    font-family: "Overlock", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Arial', sans-serif;
+    /* font-family: 'Arial', sans-serif; */
 }
 
 body {
@@ -183,7 +187,11 @@ h1 {
         margin: 0;
         padding: 0;
         box-sizing: border-box;
-        font-family: 'Arial', sans-serif;
+        /* font-family: 'Arial', sans-serif; */
+
+        font-family: "Overlock", sans-serif;
+    font-weight: 400;
+    font-style: normal;
     }
     
     body {
@@ -248,7 +256,7 @@ h1 {
     
     .first {
         z-index: 1;
-        height: 160px;
+        height: 164.5px;
         position: absolute;
         top: 69px;
         filter: drop-shadow(0.45rem 0.15rem 0.6rem rgb(16, 7, 37));
@@ -367,7 +375,11 @@ h1 {
         margin: 0;
         padding: 0;
         box-sizing: border-box;
-        font-family: 'Arial', sans-serif;
+        /* font-family: 'Arial', sans-serif; */
+
+        font-family: "Overlock", sans-serif;
+    font-weight: 400;
+    font-style: normal;
     }
     
     body {
@@ -432,7 +444,7 @@ h1 {
     
     .first {
         z-index: 1;
-        height: 170px;
+        height: 175px;
         position: absolute;
         top: 74px;
         filter: drop-shadow(0.45rem 0.15rem 0.6rem rgb(16, 7, 37));
@@ -550,7 +562,11 @@ h1 {
         margin: 0;
         padding: 0;
         box-sizing: border-box;
-        font-family: 'Arial', sans-serif;
+        /* font-family: 'Arial', sans-serif; */
+
+        font-family: "Overlock", sans-serif;
+    font-weight: 400;
+    font-style: normal;
     }
     
     body {
@@ -615,7 +631,7 @@ h1 {
     
     .first {
         z-index: 1;
-        height: 190px;
+        height: 196px;
         position: absolute;
         top: 67.5px;
         filter: drop-shadow(0.45rem 0.15rem 0.6rem rgb(16, 7, 37));
@@ -733,7 +749,11 @@ h1 {
         margin: 0;
         padding: 0;
         box-sizing: border-box;
-        font-family: 'Arial', sans-serif;
+        /* font-family: 'Arial', sans-serif; */
+
+        font-family: "Overlock", sans-serif;
+    font-weight: 400;
+    font-style: normal;
     }
     
     body {
@@ -797,7 +817,7 @@ h1 {
     
     .first {
         z-index: 1;
-        height: 280px;
+        height: 283.3px;
         position: absolute;
         top: 90.5px;
         filter: drop-shadow(0.45rem 0.15rem 0.6rem rgb(16, 7, 37));
@@ -917,7 +937,11 @@ h1 {
         margin: 0;
         padding: 0;
         box-sizing: border-box;
-        font-family: 'Arial', sans-serif;
+        /* font-family: 'Arial', sans-serif; */
+
+        font-family: "Overlock", sans-serif;
+    font-weight: 400;
+    font-style: normal;
     }
     
     body {
@@ -982,7 +1006,7 @@ h1 {
     
     .first {
         z-index: 1;
-        height: 358px;
+        height: 364px;
         position: absolute;
         top: 80.5px;
         filter: drop-shadow(0.45rem 0.15rem 0.6rem rgb(16, 7, 37));
@@ -1098,10 +1122,14 @@ h1 {
 @media screen and (min-width:1440px){
 
     * {
+        font-family: "Overlock", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+
         margin: 0;
         padding: 0;
         box-sizing: border-box;
-        font-family: 'Arial', sans-serif;
+        /* font-family: 'Arial', sans-serif; */
     }
     
     body {
@@ -1166,7 +1194,7 @@ h1 {
     
     .first {
         z-index: 1;
-        height: 444px;
+        height: 450px;
         position: absolute;
         top: 80.5px;
         filter: drop-shadow(0.45rem 0.15rem 0.6rem rgb(16, 7, 37));
@@ -1285,7 +1313,11 @@ h1 {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Arial', sans-serif;
+    /* font-family: 'Arial', sans-serif; */
+
+    font-family: "Overlock", sans-serif;
+    font-weight: 400;
+    font-style: normal;
 }
 
 body {
@@ -1315,7 +1347,7 @@ nav {
 .nav-links a {
     text-decoration: none;
     color: rgb(102, 82, 82);
-    font-size: 20px;
+    font-size: 25px;
     font-weight: 600;
 }
 
@@ -1349,7 +1381,7 @@ nav {
 
 .first {
     z-index: 1;
-    height: 507px;
+    height: 516px;
     position: absolute;
     top: 80.5px;
     filter: drop-shadow(0.45rem 0.15rem 0.6rem rgb(16, 7, 37));
